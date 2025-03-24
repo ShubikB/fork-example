@@ -24,7 +24,7 @@ function App() {
         </button>
           <button>Signup</button>
         <button>
-          <H2>ForgetPassword</H2>
+          <h2>ForgetPassword</h2>
         </button>
 
         <button>FEATURE 1</button>
