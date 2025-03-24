@@ -22,6 +22,7 @@ function App() {
           count is {count}
         </button>
         <button>FEATURE 1</button>
+        <button>FEATURE 1</button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
